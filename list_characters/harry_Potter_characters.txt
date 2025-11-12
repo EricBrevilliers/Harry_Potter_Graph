@@ -15,7 +15,7 @@ Otto_Bagman
 Millicent_Bagnold
 Bathilda_Bagshot
 Bane
-Barrufio
+Baruffio
 Basil
 Marcus_Belby
 Humphrey_Belcher
@@ -155,7 +155,7 @@ Goyle
 Gregory_Goyle
 Hermione_Jane_Granger
 Grawp
-Asteria_Greengrass
+Astoria_Malfoy
 Daphne_Greengrass
 Gregorovitch
 Fenrir_Greyback
@@ -380,7 +380,7 @@ Wakanda
 Celestina_Warbeck
 Cassius_Warrington
 Arthur_Weasley
-Willam_Weasley
+William_Weasley
 Charles_Weasley
 Dominique_Weasley
 George_Weasley
