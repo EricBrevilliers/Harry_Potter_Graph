@@ -1,0 +1,78 @@
+{{Individual infobox
+|theme=mom
+|image=
+|name=Gilbert Wimple
+|hideb=hide
+|born=Before [[1976]]<ref name="age">As he worked for the Ministry, he was likely above the age of eighteen by 1994.</ref>
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|nationality = [[Great Britain|British]]
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Employee of the [[Committee on Experimental Charms]]<ref name="GOF7"/>
+|house=
+|loyalty=*[[British Ministry of Magic]]<ref name="GOF7"/>
+**[[Committee on Experimental Charms]]
+}}
+'''Gilbert Wimple''' (fl. [[1994]])<ref name="age"/> was a  [[Wizardkind|wizard]] who worked for the [[Committee on Experimental Charms]] at the [[British Ministry of Magic|Ministry of Magic]].<ref name="GOF7"/>
+
+==Biography==
+Gilbert Wimple was born well before [[1994]],<ref name="age"/> and worked for the [[Committee on Experimental Charms]] at the [[British Ministry of Magic]]. Presumably as a result of working on the Committee, he [[Horn-growing spell|acquired horns]]. Wimple attended the [[1994 Quidditch World Cup]]. [[Arthur Weasley]] pointed him out to [[Harry Potter]], [[Ronald Weasley]], and [[Hermione Granger]].<ref name="GOF7">{{GOF|B|7}}</ref>
+
+==Etymology==
+The name "Gilbert" means "bright pledge", derived from the Germanic elements gisil "pledge, hostage" and beraht "bright". The Normans introduced this name to England, where it was common during the [[Middle Ages]]. It was borne by a 12th-century British saint, the founder of the religious order known as the Gilbertines.
+
+{{w|Whimple}} is a village in Devon, near Exeter, where [[J. K. Rowling]] went to university. This could be a link to Wimple, as there are other references to places in the area in the books.
+==Behind the scenes==
+===Translations===
+*Bulgarian: ''Гилбърт Уимпъл''
+*Danish: ''Gilbert Whimple''
+*Dutch: ''Max Knelbreuk'' (means something like "pinch-break")
+*French: ''Gilbert Fripemine''
+*German: ''Wilbert Gimpel''
+*Hebrew: ''גילברט ווימפל''
+*Japanese: ''ギルバート・ウィンプル''
+*Norwegian: ''Gilbert Vimpel''
+*Polish: ''Gilbert Whimple''
+*Ukrainian: ''Гільберт Вімпл {{c|Gil'bert Vimpl}}''
+The following languages are the same as the original:
+{|
+|
+*Croatian
+|
+*Faroese
+|}
+
+==Appearances==
+*{{GOF}} {{Mention|1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Departments unknown levels}}
+{{DEFAULTSORT:Wimple, Gilbert}}
+[[de:Wilbert Gimpel]]
+[[es:Gilbert Wimple]]
+[[fr:Gilbert Fripemine]]
+[[pl:Gilbert Wimple]]
+[[ru:Гилберт Уимпил]]
+
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:British individuals|Wimple, Gilbert]]
+[[Category:Committee on Experimental Charms personnel|Wimple, Gilbert]]
+[[Category:Males|Wimple, Gilbert]]
+[[Category:Wizards|Wimple, Gilbert]]

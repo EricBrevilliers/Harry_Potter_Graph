@@ -1,0 +1,82 @@
+{{Individual infobox
+|theme = individual
+|image = AudreyWeasley.png
+|name = Audrey Weasley
+|born =<!--Please leave this field blank unless it has been officially, directly confirmed in a canon source.-->
+|died = 
+|blood = 
+|marital = Married
+|nationality =<!--Please leave this field blank unless it has been officially, directly confirmed in a canon source.-->
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Percy Weasley]] (husband)
+*[[Lucy Weasley]] (daughter)
+*[[Molly Weasley (II)]] (daughter)
+*[[Arthur Weasley]] (father-in-law)
+*[[Molly Weasley]] (née [[Prewett family|Prewett]]) (mother-in-law)
+*[[William Weasley]] (brother-in-law)
+*[[Charles Weasley]] (brother-in-law)
+*[[Fred Weasley]] (brother-in-law) †
+*[[George Weasley]] (brother-in-law)
+*[[Ronald Weasley]] (brother-in-law)
+*[[Ginevra Weasley|Ginevra Potter]] (née [[Weasley family|Weasley]]) (sister-in-law)
+*[[Fleur Delacour|Fleur Weasley]] (née [[Delacour family|Delacour]]) (sister-in-law by marriage)
+*[[Angelina Johnson|Angelina Weasley]] (née [[Johnson family|Johnson]]) (sister-in-law by marriage)
+*[[Hermione Granger]]<ref name="A1">{{PM}} - [https://www.pottermore.com/news/cursed-child-first-look-at-weasleys-in-character New Cursed Child character portraits of Ron, Hermione and Rose Granger-Weasley]"</ref> (sister-in-law by marriage)
+*[[Harry Potter]] (brother-in-law by marriage)
+*[[Padma Patil]] (sister-in-law by marriage in [[Alternate reality|alternate timeline]]
+*[[Victoire Weasley]] (niece by marriage)
+*[[Dominique Weasley]] (niece by marriage)
+*[[Louis Weasley]] (nephew by marriage)
+*[[Fred Weasley (II)]] (nephew by marriage)
+*[[Roxanne Weasley]] (niece by marriage)
+*[[Rose Granger-Weasley]]<ref name="A1"/> (niece by marriage)
+*[[Hugo Granger-Weasley]]<ref name="A1"/> (nephew by marriage)
+*[[James Potter (II)]] (nephew by marriage)
+*[[Albus Potter]] (nephew by marriage)
+*[[Lily Potter (II)]] (niece by marriage)
+*[[Panju Weasley]] (nephew by marriage in [[alternate timeline]])
+*[[Weasley family]] (in-laws/descendants)
+|romances = [[Percy Weasley]] (husband)
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Weasley family]]
+}}
+'''Audrey Weasley''' (maiden name unknown) was the wife of [[Percy Weasley]]. The couple had two daughters, [[Molly Weasley (II)|Molly]] and [[Lucy Weasley|Lucy]].<ref name=WFT>[https://archive.ph/qJjm4#selection-1403.0-1403.57 Times Online - The Unwritten Story of Harry's Friends and Their Children] (Archived)</ref> It is possible that one or both of their daughters were attending or starting at Hogwarts in [[2017]], due to the fact that her [[Percy Weasley|husband]] Percy was at [[King's Cross Station]] on [[1 September]] that year.<ref name="DHF2">{{DH|F2}}</ref>
+
+While it is unknown as to whether or not she worked at the Ministry, Audrey knew all their rules and regulations in detail, thanks to her husband.<ref name="Tree">[http://web.archive.org/web/20180315000306/https://www.pottermore.com/about/the-weasley-family-tree-text-version The Weasley family tree]</ref>
+
+==Etymology==
+The name Audrey is of Old English origin, and the meaning of Audrey is "noble strength". Also the root, via Saint Audrey, for the word "tawdry", due to lace and goods sold at Saint Audrey's Fair in England. Saint Audrey was a sixth-century English princess also known as Etheldreda. Literary: Shakespeare used the name for Touchstone's comic sweetheart in "As You Like It".
+
+==Appearances==
+*{{JKYL}} {{Mention|1st}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Weasley, Audrey}}
+[[de:Audrey Weasley]]
+[[es:Audrey Weasley]]
+[[pl:Audrey Weasley]]
+[[fr:Audrey Weasley]]
+[[it:Audrey Weasley]]
+[[ru:Одри Уизли]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Percy Weasley's romantic relationships]]
+[[Category:Weasley family|Audrey]]

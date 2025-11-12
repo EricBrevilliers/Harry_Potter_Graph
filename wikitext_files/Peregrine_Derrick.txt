@@ -1,0 +1,79 @@
+{{HogwartsMysterySpoiler}}
+{{Imageless}}
+{{Individual infobox
+|theme = slytherin
+|image =
+|name = Peregrine Derrick
+|born = Between [[1 September]] [[1976]] and [[31 August]] [[1977]]
+|died =
+|blood = 
+|marital =
+|nationality = {{GBorIE}}
+|alias =
+|title = [[Beater]]<ref name="POA15"/>
+|signature =
+|species = [[Human]]<ref name="POA15"/>
+|gender = Male<ref name="POA15"/>
+|height =
+|weight =
+|hair =
+|eyes =
+|skin = 
+|family =
+|romances =
+|animagus = 
+|boggart =
+|wand =
+|patronus =
+|job =
+|house = [[Slytherin]]<ref name="POA15"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POA15"/>
+**[[Slytherin]]<ref name="POA15"/>
+**[[Slytherin Quidditch team]]<ref name="POA15"/>
+}}
+'''Peregrine Derrick'''<ref name="QWC">{{QWC}}</ref> (born c. [[1977]]) was a [[Great Britain|British]] [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in [[1988]].<ref name="year">In {{OOTP|B|19}}, [[Angelina Johnson]] states, "Last year's Beaters, Derrick and Bole, have left." This indicates Derrick's seventh year was [[1994–1995 school year|1994–1995]] and that he kept his position as Beater despite the cancellation of Quidditch matches during the Triwizard Tournament held that same term.</ref>
+
+==Biography==
+[[Sorting Ceremony|Sorted]] into [[Slytherin]], Derrick played as a [[Beater]] on the [[Slytherin Quidditch team]], along with [[Lucian Bole]], in the [[1993–1994 school year]].<ref name="POA15">{{POA|B|15}}</ref>
+
+Although there were no [[Quidditch]] matches at Hogwarts during the [[1994–1995 school year]] because of the [[Triwizard Tournament]], he held his position on the Slytherin team, at least nominally, until his graduation at the end of term.<ref name="year"/> He and Bole were replaced by [[Vincent Crabbe]] and [[Gregory Goyle]] at the start of the [[1995–1996 school year]]. [[Angelina Johnson]], the new captain of the [[Gryffindor Quidditch team]], joked to her teammates that she was always shocked that Derrick and Bole were able to make it on to the Quidditch pitch without having to follow signs.<ref name="OOTP19">{{OOTP|B|19}}</ref>
+
+==Magical abilities and skills==
+*'''[[Flight|Flying]]''': Derrick was evidently an accomplished and talented [[broomstick]] flyer and [[Quidditch]] player, given how he was appointed as a [[Beater]] for the [[Slytherin Quidditch team]].<ref name="POA15"/>
+
+==Behind the scenes==
+*This character is known only by his surname in the {{HPbooks}}. His first name is given as "Peregrine" in the video game {{QWC}}.
+*It is possible that Derrick is the [[Unidentified Slytherin Beater (II)]] seen in {{PS|FA}}, and then played from the [[1991–1992 school year]].
+
+==Etymology==
+The name "Peregrine" is from the Late Latin name ''Peregrinus'', which meant "traveller". This was the name of several early saints.
+
+==Appearances==
+*{{PS|F}} {{Possible}}
+*{{POA}} {{1st}}
+*{{POA|G}} {{Mention}}
+*{{OOTP}} {{Mention}}
+*{{QWC}} {{1st ID}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Derrick, Peregrine}}
+{{Hogwarts quidditch positions}}
+[[de:Derrick]]
+[[de2:Peregrine Derrick]]
+[[es:Peregrine Derrick]]
+[[fr:Peregrine Derrick]]
+[[nl:Peregrine Wrakking]]
+[[pl:Peregrine Derrick]]
+[[pt:Peregrine Derrick]]
+[[ru:Перегрин Деррек]]
+[[zh:德里克]]
+
+[[Category:1970s births]]
+[[Category:Beaters]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in 1988]]
+[[Category:Wizards]]
