@@ -1,0 +1,56 @@
+{{Youmay|Seamus Finnigan's cousin|[[Fergus (disambiguation)|another use of the same name]]}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Fergus
+|born = Before [[1980]]<ref name="age">He was at least seventeen years old in 1996, as he had already passed his apparation test.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP17"/>
+|gender = Male<ref name="HBP17"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Seamus Finnigan's father|Uncle]]<ref name="HBP17"/>
+*[[Seamus Finnigan's mother|Aunt]]<ref name="HBP17"/>
+*[[Seamus Finnigan]] (cousin)<ref name="HBP17"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Finnigan family]]<ref name="HBP17"/>
+}}
+{{Quote|Me cousin Fergus does it just to annoy me, you wait till I can do it back... He'll never have another peaceful moment...|Seamus Finnigan on Apparition|Harry Potter and the Half-Blood Prince}}
+'''Fergus''' (fl. 1979–1996) was an [[Ireland|Irish]] [[Wizardkind|wizard]] and [[Seamus Finnigan]]'s cousin. He was known to annoy Seamus by [[Apparition|Apparating]] around him frequently.<ref name="HBP17">{{HBP|B|17}}</ref>
+
+==Magical abilities and skills==
+*'''[[Apparition]]''': Fergus was capable of Apparating at will, often doing it to simply annoy his cousin [[Seamus Finnigan|Seamus]].<ref name="HBP17"/>
+
+==Etymology==
+The name "Fergus" means "man of vigour", derived from the Gaelic elements ''fear'' "man" and ''gus'' "vigour". This was the name of several characters in Irish legend including the Ulster hero Fearghas mac Róich.
+
+==Behind the scenes==
+*The fact that Fergus is a wizard may suggest that he is a maternal cousin of Seamus (with [[Seamus Finnigan's mother|Seamus' mother]] being a witch). That said, the introduction of a [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] student named [[Florence Finnigan]] in {{HM}} suggests some potential wizarding ancestry in the [[Finnigan family]] (assuming that Florence and Seamus are closely related at all), so their exact relation remains completely unknown.
+
+==Appearances==
+*{{HBP}} {{Mention|1st}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Fergus]]
+[[es:Fergus]]
+[[fr:Fergus]]
+[[pl:Fergus]]
+[[Category:Finnigan family]]
+[[Category:Males]]
+[[Category:Wizards]]

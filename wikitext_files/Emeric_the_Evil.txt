@@ -1,0 +1,87 @@
+{{Spoiler|HM|HL}}
+{{Individual infobox
+|theme = dark-wizard
+|image = Emeric the Evil HM.png
+|name = Emeric the Evil
+|born = [[Middle Ages]]<ref name="TBB"/>
+|died = Middle Ages<ref name="TBB"/>
+|blood =
+|marital =
+|nationality =
+|alias =
+|title =
+|signature =
+|species = [[Human]]<ref name="TBB"/>
+|gender = Male<ref name="TBB"/>
+|height =
+|weight =
+|hair = Black (greying)<ref name="HM">{{HM}} - {{See image|File:EmericTheEvilHM.png}}</ref>
+|eyes = Brown<ref name="HM"/>
+|skin = Light<ref name="HM"/>
+|family =
+|romances =
+|animagus =
+|boggart =
+|wand = [[Elder Wand|15", Elder, Thestral tail hair]]<ref name="TBB"/>
+|patronus =
+|job =
+|house =
+|loyalty = [[Dark Arts]]<ref name="TBB"/>
+}}
+{{Quote|Binns droned on and on while they scribbled down names and dates and got Emeric the Evil and Uric the Oddball mixed up.|Description|Harry Potter and the Philosopher's Stone}}
+'''Emeric the Evil'''<ref name="PS8"/> was a short-lived but exceptionally belligerent [[Dark wizard]] from the [[Middle Ages]].<ref name="TBB"/>
+
+==Biography==
+{{Quote|The first well-documented mention of a wand made of elder that had particularly strong and dangerous powers was owned by Emeric, commonly called 'the Evil', a short-lived but exceptionally aggressive wizard who terrorised the South of England in the early Middle Ages.|Albus Dumbledore's notes, [[The Tale of the Three Brothers]]|The Tales of Beedle the Bard (real)}}
+Born somewhere in [[Great Britain]] to a medieval family of unknown wizarding descent, Emeric was found to be in possession of magical ability at an early age and, sometime afterwards, acquired a [[wand]] and received instruction on how to control and use his abilities. During his lifetime, he took possession of and won the mastery of the [[Elder Wand]], which, in the wrong hands, was a weapon of immense power. Predisposed towards violence and fuelled by a great thirst of power,<ref>{{HM|7|1}}</ref> he used it to terrorise southern [[England]] in the early [[Middle Ages]]. He was "''slaughtered''" in a ferocious [[Duel between Emeric the Evil and Egbert the Egregious|duel]] against [[Egbert the Egregious]].<ref name="TBB">{{TBB|R}} - ''Albus Dumbledore on "''The Tale of the Three Brothers''"''</ref> Apparently, his [[death]] was gruesome.<ref name="HM72hm"/>
+
+During their [[History of Magic]] lessons with [[Cuthbert Binns|Professor Binns]] at [[Hogwarts School of Witchcraft and Wizardry]], [[First year|first-year]] students often mixed up Emeric the Evil with [[Uric the Oddball]].<ref name="PS8">{{PS|B|8}}</ref> The [[Seventh year|seventh-year]] History of Magic curriculum also covered Emeric the Evil, at least in the [[1990–1991 school year]].<ref name="HM72hm">{{HM|7|2|hm}}</ref> [[Corey Hayden]] also spoke to several fellow students in the [[History of Magic Classroom]] about Emeric the Evil at the start of the same school year.<ref name="HM71">{{HM|7|1}}</ref>
+
+==Magical abilities and skills==
+*'''[[Dark Arts]]''': Emeric the Evil was a prolific [[Dark wizard]] who terrorised Southern [[England]] in the early Middle Ages, which he likely did using the Dark Arts.<ref name="TBB"/>
+*'''[[Duelling]]''': Having gained ownership of the legendary [[Elder Wand]], Emeric was an aggressive wizard with a proclivity for duelling and [[martial magic]]; however, he was defeated and killed in a duel with [[Egbert the Egregious]], meaning he was an inferior duellist to him.<ref name="TBB"/>
+*'''[[Care of Magical Creatures]]''': Emeric was capable of flying a [[dragon]]-like creature, a dangerous looking [[magic]]al [[beast]].<ref name="TBBIE">{{TBB|IE}}</ref>
+
+==Etymology==
+The name "Emeric" is a Germanic name, in which the second element is ''ric'' meaning "power". The first element may be ''ermen'' "whole, universal" (making it a relative of ''Ermenrich''), ''amal'' "work, labour" (making it a relative of ''Amalric'') or ''heim'' "home" (making it a relative of ''Henry''). It is likely that several forms merged into a single name.
+
+==Behind the scenes==
+*In {{TBB|IE}}, [[Chris Riddell]] depicts Emeric the Evil riding an unnamed [[dragon]]-like creature, which is unnamed in the text, it is only shown in the illustration of him. This is not stated in the original version of {{TBB}} either. The nature of this dragon is also unknown. It is also possibly a [[Wyvern]], but that is also unknown.
+
+==Appearances==
+{{Imagecat|Images of Emeric the Evil}}
+*{{PS}} {{Mention|1st}}
+*{{DH}} {{Mention}}
+*{{TBB|R}} {{Mention}}
+*{{TBB|IE}} {{1st}}
+*{{PM}} {{Mention}}
+*{{HPcom}} {{Mention}}
+*{{HM}} {{Mention}} {{FWC}}
+*{{HL}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Antioch Peverell's killer]]
+|position=Master of the [[Elder Wand]]
+|years=
+|successor=[[Egbert the Egregious]]}}
+{{End box}}
+{{Deathly Hallows Owners}}
+
+[[de:Emmerich der Böse]]
+[[es:Emeric el Malvado]]
+[[fr:Emeric le Hargneux]]
+[[pl:Emeryk Zły]]
+[[ru:Эмерик Отъявленный]]
+[[uk:Емерік Лихий]]
+[[pt-br:Emerico, o Mal]]
+
+[[Category:British individuals]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Dark wizards]]
+[[Category:Elder Wand masters]]
+[[Category:Males]]
+[[Category:Murder victims]]

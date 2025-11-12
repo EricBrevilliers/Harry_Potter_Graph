@@ -1,0 +1,62 @@
+{{Spoiler|HM|MA|HL}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Zonko
+|nationality=[[Great Britain|British]]<ref name="POA8"/>
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="POA8"/>
+|gender=Male<ref name="POA8"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Owner of [[Zonko's Joke Shop]]<ref name="POA8"/>
+|house=
+|loyalty=[[Zonko's Joke Shop]]<ref name="POA8"/>
+}}
+'''Zonko''' ({{W|floruit|fl.}} pre-[[1890]])<ref name="HL">{{HL}} – [[Zonko's Joke Shop]] was named as such in [[1890]].</ref> was a [[Great Britain|British]] [[Wizardkind|wizard]] who owned [[Zonko's Joke Shop]] in [[Hogsmeade]].<ref name="POA8">{{POA|B|8}}</ref>
+
+==Appearances==
+*{{POA}} {{Mention|1st}}
+*{{POA|F}} {{Mention}}
+*{{POA|G}} {{Mention}}
+*{{GOF}} {{Mention}}
+*{{OOTP}} {{Mention}}
+*{{HBP}} {{Mention}}
+*{{DH}} {{Mention}}
+*{{PM}} {{Mention}}
+*{{HPcom}} {{Mention}}
+*{{LEGO|Y1}} {{Mention}}
+*{{LEGO|Y2}} {{Mention}}
+*{{WWHP}} {{Mention}}
+*{{HM}} {{Mention}}
+*{{MA}} {{Mention}}
+*{{HL}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogsmeade}}
+[[es:Zonko]]
+[[pl:Zonko]]
+[[ru:Зонко (волшебник)]]
+[[Category:Hogsmeade residents]]
+[[Category:Males]]
+[[Category:Namesakes]]
+[[Category:Shop owners]]
+[[Category:Wizards]]
+[[Category:Zonko's Joke Shop employees]]

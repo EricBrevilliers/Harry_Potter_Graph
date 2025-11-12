@@ -1,0 +1,71 @@
+{{Individual infobox
+|theme=death-eater
+|image=
+|name=Mulciber I
+|hideb=
+|born= 
+|died=
+|blood=[[Pure-blood]] or [[half-blood]]<ref name="Blood">[[Death Eaters]] were known to vehemently oppose and loathe all [[Muggle-born]]s and [[Non-magic people|Muggles]].</ref>
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="HBP20"/>
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Mulciber II]] (possible relative)
+*[[Mulciber family]]
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html July 30, 2007 Web Chat with J. K. Rowling]</ref>
+|hidea=
+|job=
+|house=
+|loyalty=*[[Mulciber family]]
+*[[Tom Riddle|Lord Voldemort]]<ref name="HBP20"/>
+**[[Death Eaters]]<ref name="HBP20"/>
+}}
+{{Quote|...-[[Nott]], [[Rosier (early Death Eater)|Rosier]], Mulciber, [[Antonin Dolohov|Dolohov]]- waiting for [[Tom Riddle|your]] return... What devoted friends, travelling so far away in the [[Water|snow]] and the night just to wish you good luck in trying to get a teacher position!|[[Albus Dumbledore]] to [[Tom Riddle]]|Harry Potter and the Half-Blood Prince}}
+'''Mulciber I'''<ref>[https://web.archive.org/web/20180315000257/https://www.pottermore.com/about/a-guide-to-lord-voldemorts-death-eaters A guide to Lord Voldemort’s Death Eaters] at {{PM}}</ref> was a [[Dark wizard|Dark witch or wizard]] and one of the earliest [[Death Eaters]] of [[Tom Riddle|Lord Voldemort]]. They were possibly an older relative of [[Mulciber II]]. They fought in the [[First Wizarding War]], and travelled to [[Hogsmeade]] in order to "wish good luck" to Tom Riddle in trying to get a teacher position at Hogwarts.<ref name="HBP20">{{HBP|B|20}}</ref>
+
+==Biography==
+===Early life===
+Mulciber's early life is unknown. At some point, they became a loyal Death Eater for Lord Voldemort.<ref name="HBP20"/>
+
+===First Wizarding War===
+Mulciber fought in the [[First Wizarding War]], along with many other [[Death Eaters]]. They were among the group who travelled to Hogsmeade to "say ''good luck''" to Voldemort, during his attempt to ask for work at Hogwarts, along with fellow Death Eaters [[Nott]], [[Rosier]] and [[Antonin Dolohov]].<ref name="HBP20"/> They presumably fought in many battles during the First Wizarding War. It is unknown if they were still alive by the time of the [[Battle of Hogwarts]] and Voldemort's downfall.
+
+==Etymology==
+May refer to {{W|Mulciber}} (Hephaestus), meaning "smelter", is an alternate name for the gentle son of Zeus and Hera who had a club foot and was a craftsman and blacksmith in Greek mythology. In Roman mythology he is the god of fire and metallurgy, Vulcan.
+
+Mulciber is also a character in John Milton's ''{{W|Paradise Lost}}'', a story based on mankind falling into sin and the struggle of heaven and hell. Mulciber was a fallen angel who is the architect of Pandemonium, the capital of Hell and home to the demons' council.
+
+==Behind the scenes==
+*During his trial, [[Igor Karkaroff]] accused a Mulciber of being a Death Eater.<ref name="GOF30">{{GOF|B|30}}</ref> It is not known whether he was referring to the older or younger Mulciber.
+*It is possible that Mulciber may have been one of the unidentified boys seen with [[Tom Riddle]] in [[Horace Slughorn]]'s memory, although this has not been confirmed. 
+*It is unclear if he fought in the [[Second Wizarding War]], as he would've been an elderly man if he was still alive.
+
+==Appearances==
+*{{HBP}} {{Mention|1st}}
+*{{HBP|F}} {{C|Appears in flashback (possibly)}}
+
+==Notes and references==
+{{Reflist}}
+{{Death Eaters}}
+[[de:Mulciber sr.]]
+[[es:Mulciber (Era de Tom Ryddle)]]
+[[fr:Mulciber (époque de Tom Jedusor)]]
+[[nl:Schoorvoet]]
+[[pl:Mulciber (Era Riddle'a)]]
+[[pt-br:Múlciber (era Riddle)]]
+[[ru:Мальсибер-старший]]
+[[Category:British individuals]]
+[[Category:Death Eaters]]
+[[Category:Individuals of unknown gender]]
+[[Category:Mulciber family]]
+[[Category:Tom Riddle's gang]]

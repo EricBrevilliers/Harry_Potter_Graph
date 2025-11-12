@@ -1,0 +1,100 @@
+{{Individual infobox
+|theme = individual
+|image = LouisWeasley.png
+|name = Louis Weasley
+|born = After [[2 May]] [[2000]]<ref>This was the earliest his eldest sister Victoire could be born.</ref>
+|died = 
+|blood = [[Half-breed]] ([[Half-Veela|one-eighth-Veela]])<!-- Please DO NOT alter the blood status to include half-blood. A half-blood has magical and Muggle heritage; Fleur Delacour has Veela heritage, and it is unknown if she has Muggle heritage. -->
+|marital = 
+|nationality = {{GBorIE}}<ref>For his sister to attend Hogwarts she would have to live in this area, therefore he must also live there too.</ref>
+|alias = 
+|title = 
+|signature = 
+|species = [[Half-breed|Part-human]]/[[Half-Veela|one-eighth-Veela]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[William Weasley]] (father)
+*[[Fleur Delacour|Fleur Weasley]] (née [[Delacour family|Delacour]]) (mother)
+*[[Victoire Weasley]] (older sister)
+*[[Dominique Weasley]] (older sister)
+*[[Charles Weasley]] (paternal uncle)
+*[[Percy Weasley]] (paternal uncle)
+*[[Fred Weasley]] (paternal uncle) †
+*[[George Weasley]] (paternal uncle)
+*[[Ronald Weasley]] (paternal uncle)
+*[[Ginevra Weasley|Ginevra Potter]] (née [[Weasley family|Weasley]]) (paternal aunt)
+*[[Gabrielle Delacour]] (maternal aunt)
+*[[Audrey Weasley]] (paternal aunt by marriage)
+*[[Angelina Johnson|Angelina Weasley]] (née [[Johnson family|Johnson]]) (paternal aunt by marriage)
+*[[Hermione Granger]] (paternal aunt by marriage)
+*[[Harry Potter]] (paternal uncle by marriage)
+*[[Padma Patil]] (paternal aunt by marriage in [[Alternate reality|alternate timeline]])
+*[[Molly Weasley (II)]] (paternal first cousin)
+*[[Lucy Weasley]] (paternal first cousin)
+*[[Fred Weasley (II)]] (paternal first cousin)
+*[[Roxanne Weasley]] (paternal first cousin)
+*[[Rose Granger-Weasley]] (paternal first cousin)
+*[[Hugo Granger-Weasley]] (paternal first cousin)
+*[[James Potter (II)]] (paternal first cousin)
+*[[Albus Potter]] (paternal first cousin)
+*[[Lily Potter (II)]] (paternal first cousin)
+*[[Panju Weasley]] (paternal first cousin in [[Alternate reality|alternate timeline]])
+*[[Arthur Weasley]] (paternal grandfather)
+*[[Molly Weasley]] (née [[Prewett family|Prewett]]) (paternal grandmother)
+*[[Delacour sisters' father|Maternal grandfather]]
+*[[Apolline Delacour]] (maternal grandmother)
+*[[Matilda Weasley]] (possible relative)
+*[[G. Weasley]] (possible relative)
+*[[Garreth Weasley]] (possible relative)
+*[[Garreth Weasley's sister|Possible relative]]
+*[[Matilda Weasley's nephews|Possible relatives]]
+*[[Hector Jenkins|Hector Weasley]] (possible relative)
+*[[Weasley family]] (paternal family)
+*[[Delacour family]] (maternal family)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Weasley family]]
+*[[Delacour family]]
+}}
+'''Louis Weasley''' was the youngest child and only son of [[William Weasley|Bill]] and [[Fleur Delacour|Fleur Weasley]] {{c|née [[Delacour family|Delacour]]}}. He had two elder sisters, [[Victoire Weasley|Victoire]] and [[Dominique Weasley]].<ref name="WFT">[https://archive.ph/qJjm4#selection-1403.0-1403.57 Times Online - The Unwritten Story of Harry's Friends and Their Children] (Archived)</ref> It is most likely that he lived at [[Shell Cottage]] with his family.
+
+==Etymology==
+The name "Louis" is the French form of Ludovicus, the Latinised form of Ludwig. From Old German ''hlod'' and ''wig'', meaning "fame" and "warrior". The king Clovis I (5th century) was the first Christian king in France. This was the name of eighteen kings of France, starting with Louis I, the son of Charlemagne (8th century), and including Louis IX (Saint Louis), who led two crusades, and Louis XIV (the 'Sun King'), who was the ruler of France during the height of its power, the builder of the Palace of Versailles, and the longest reigning monarch in the history of Europe.
+
+==Behind the scenes==
+*Louis is the only confirmed male in [[canon]] with [[Veela]] blood. [[Cassandra Vole's father]] may possibly be another example.
+*[[J. K. Rowling]]'s great-grandfather was also named Louis. It is unknown whether Louis Weasley is named in honour of him.
+
+==Appearances==
+*{{JKYL}} {{Mention|1st}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Weasley, Louis}}
+[[de:Louis Weasley]]
+[[es:Louis Weasley]]
+[[fr:Louis Weasley]]
+[[pl:Louis Weasley]]
+[[pt-br:Louis Weasley]]
+[[ru:Луис Уизли]]
+[[zh:路易斯·韦斯莱]]
+[[Category:21st century births]]
+[[Category:Delacour family descendants]]
+[[Category:Disowned House of Black descendants]]
+[[Category:English individuals]]
+[[Category:Flint family descendants]]
+[[Category:Males]]
+[[Category:Part-Veela]]
+[[Category:Prewett family descendants]]
+[[Category:Weasley family|Louis]]
+[[Category:Yaxley family descendants]]

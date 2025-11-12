@@ -1,0 +1,63 @@
+{{Individual infobox
+|theme=mom
+|image=Wakanda.png
+|name=Wakanda
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=Blonde<ref name="hair">{{DH|B|13}} - "an elderly witch whose blonde hair was teased so high it resembled an anthill. “... I quite understand what you’re saying, Wakanda..."</ref>
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[British Ministry of Magic]] employee (possibly in the [[Department of Magical Law Enforcement]])
+|house=
+|loyalty=[[British Ministry of Magic]]
+}}
+{{Quote|Don't tell me, it's [[Water|raining]] in Yaxley's office again.|Wakanda|Harry Potter and the Deathly Hallows: Part 1}}
+'''Wakanda''' {{Fl|[[1997]]}} was an elderly [[Wizardkind|witch]] who worked for the [[British Ministry of Magic]],<ref name="DH13"/> presumably in the [[Department of Magical Law Enforcement]].<ref name="work">As she got off on the same floor as [[Arthur Weasley]], she possibly worked in the Department of Magical Law Enforcement as well.</ref> 
+
+==Biography==
+{{Quote|… I quite understand what you're saying, Wakanda, but I'm afraid I cannot be party to –|[[Arthur Weasley]] to Wakanda|Harry Potter and the Deathly Hallows}}
+[[Harry Potter]] and [[Ronald Weasley|Ron Weasley]] encountered Wakanda in a lift when they [[Infiltration of the British Ministry of Magic (1997)|infiltrated the Ministry]] along with [[Hermione Granger]] in [[1997]]. [[Arthur Weasley]] was talking to her, and, judging from his reaction, she had just tried to convince him to become involved in something with which he had reservations.<ref name="DH13">{{DH|B|13}}</ref>
+
+==Physical description==
+She wore her blonde hair in a high style that resembled an anthill.<ref name="hair"/>
+
+==Etymology==
+The name ''Wakanda'' means "inner magical power" in {{W|Sioux}}.<ref>''The New Age Baby Name Book'' by Sue Browder</ref> In Sioux tradition, Wakanda or {{W|Wakan Tanka}} is also a term for that which is sacred or divine.
+
+==Behind the scenes==
+*In a deleted scene from {{DH|F1}}, she is portrayed by [[Harriet Thorpe]]. Thorpe also took over the role of Tanya in ''Mamma Mia!'' on the West End.<ref>[http://www.gavinbarkerassociates.co.uk/actresses/harriet-thorpe.htm Source]</ref>
+
+==Appearances==
+{{Imagecat|Images of Wakanda}}
+*﻿{{DH}} {{1st}}
+*{{DH|F1}} {{Deleted scenes}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+{{Ministry employees of unknown Department}}
+[[de:Wakanda]]
+[[fr:Wakanda]]
+[[ru:Ваканда]]
+[[pl:Wakanda]]
+
+[[Category:British individuals]]
+[[Category:British Ministry of Magic employees]]
+[[Category:Females]]
+[[Category:Wizards]]
