@@ -1,0 +1,85 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Tobias Snape
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="blood">{{HBP|B|30}} - "Tobias Snape was a Muggle from what it said in the Prophet."</ref>
+|marital = Married<ref name="HP30">{{HBP|B|30}}</ref>
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = Human<ref name="DH33">{{DH|B|33}}</ref>
+|gender = Male<ref name="DH33"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = White<ref name="OP26">{{OOTP|B|26}}</ref>
+|family = *[[Eileen Prince]] (wife) 
+*[[Severus Snape]] (son) †
+*[[Snape family]]
+*[[Prince family]] (in-laws)
+|romances = [[Eileen Prince]] (wife) 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Snape family]]
+}}
+{{Dialogue a-b|Lily Evans|Doesn't your dad like [[magic]]?|Severus Snape|He doesn't like anything, much.|[[Severus Snape|Severus]] discussing his father with [[Lily Potter (I)|Lily Evans]]|Harry Potter and the Deathly Hallows}}
+'''Tobias Snape''' was a [[Great Britain|British]] [[Non-magic people|Muggle]]<ref name="blood"/> and the patriarch of the [[Snape family]] in the late [[20th century]]. He was the husband of the [[Wizardkind|witch]] [[Eileen Prince|Eileen Snape]] (nèe [[Prince family|Prince]]) and the father of [[Severus Snape]].<ref name="DH33"/>
+
+==Biography==
+===Early life===
+Tobias was born sometime in the early [[20th century]], into the [[Non-magic people|Muggle]] [[Snape family]].<ref name="HP30"/>
+
+===Marriage===
+{{Quote|... a hook-nosed man was shouting at a cowering woman, while a small dark-haired boy cried in a corner ...|Description of Tobias and Eileen's marriage|Harry Potter and the Order of the Phoenix}}
+He married the [[pure-blood]] [[Wizardkind|witch]] [[Eileen Prince]].<ref name="HP30"/> As [[Harry Potter]] saw in Severus Snape's [[Memory|memories]] during an [[Occlumency]] [[Harry Potter and Severus Snape's private lessons|lesson]], he was abusive.<ref name="OP26"/> Why they began a relationship and got married is currently unknown. Eileen may not have told him about the [[wizarding world]] before their wedding.
+
+The couple lived at [[Spinner's End]], a working-class neighbourhood in [[Cokeworth]], [[England]].<ref name="DH33"/>
+
+On [[9 January]] [[1960]], Eileen gave birth to their son. [[Severus Snape|Severus]] noted during a conversation with his friend, [[Lily Potter (I)|Lily Evans]], that his parents fought often. They apparently neglected him during his childhood, or were poor, or both. His clothes were mismatched and did not fit properly.
+
+By [[September]] [[1981]], when Severus became the [[Potions Master]] and a [[Head of House]] at the school, Tobias and Eileen no longer resided in the house.
+
+==Personality and traits==
+According to young Severus, Tobias was not fond of very much of anything, including magic.<ref name="DH33"/> Even so, his son was a talented young wizard before even receiving [[Hogwarts acceptance letter|the Hogwarts letter]]. As [[Sirius Black]] mentioned that Severus knew more [[curse]]s when he arrived at school than half of the seventh-year students did,<ref name="GOF27">{{GOF|B|27}}</ref> 
+
+==Relationships==
+===Family===
+Tobias had a very poor relationship with both his wife and his son. When Severus was younger, Tobias frequently shouted at Eileen, and possibly hit her, whilst their son crouched in a corner, crying.<ref name="OP26"/> The unhappy memories of the Snape home would haunt Severus into adulthood.
+
+==Etymology==
+''{{W|Tobias}}'' is the Greek form of the Hebrew name ''Tobiah'' from the biblical books of ''Ezra'' and ''Nehemiah'', meaning "God is good" - which is a big irony, given Tobias's nasty demeanour towards everything in life. In the deuterocanonical Book of Tobit in the Old Testament, Tobias is assisted by the archangel in driving a demon away from Sarah, who subsequently became his wife.<ref>[http://www.behindthename.com/name/tobias Behind the Name: Tobias]</ref>
+
+[[J. K. Rowling]] has stated that "Snape" is the name of a place in [[England]].<ref>[http://www.accio-quote.org/articles/2000/fall00-etoys.html 2000 eToys Interview - AccioQuote!]</ref> It also is an English verb meaning "''to be hard upon, rebuke or snub''", derived from the Old Norse "''sneypa''", meaning "''to outrage, dishonour, disgrace''".<ref>[http://dictionary.reference.com/browse/snape "Snape" at Dictionary.com]</ref> 
+
+==Behind the scenes==
+*It is possible that the marriage caused Eileen to be disowned by the Prince family, similar to [[Andromeda Tonks|Andromeda Tonks née Black]], who was disowned by her parents and sisters after she married [[Edward Tonks|a Muggle-born man]], and [[Merope Riddle|Merope Riddle née Gaunt]], who was disowned by her [[Marvolo Gaunt|father]] and [[Morfin Gaunt|brother]] after she bewitched [[Tom Riddle Senior|a Muggle squire]] into marrying her.
+
+==Appearances==
+*{{OOTP}} {{1st}} {{Flashback}}
+*{{HBP}} {{1st ID}} {{Mention}}
+*{{DH}} {{Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Snape, Tobias}}
+[[de:Tobias Snape]]
+[[es:Tobias Snape]]
+[[fr:Tobias Rogue]]
+[[pl:Tomiasz Snape]]
+[[pt:Tobias Snape]]
+[[ru:Тобиас Снегг]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Non-magic people]]
+[[Category:Parents]]
+[[Category:Snape family|Tobias]]

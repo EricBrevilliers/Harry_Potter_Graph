@@ -1,0 +1,63 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Tiberius Ogden
+|born = Before [[1977]] (considered "elder" in [[1995]])<ref name="OOTP15"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP15"/>
+|gender = Male<ref name="OOTP15"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Bob Ogden]] (possibly)<ref name="OOTP15"/>
+*[[Ogden]] (possibly)<ref name="OOTP15"/>
+*[[Ogden family]]<ref name="OOTP15"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Member of the [[Wizengamot]]<ref name="OOTP15"/>
+|house = 
+|loyalty = *[[Ogden family]]<ref name="OOTP15"/>
+*[[British Ministry of Magic]]<ref name="OOTP15"/>
+**[[Wizengamot]] {{C|formerly}}<ref name="OOTP15"/>
+}}
+{{Quote|Wizengamot elders [[Griselda Marchbanks]] and Tiberius Ogden have resigned in protest at the introduction of the post of Inquisitor to Hogwarts|''[[Daily Prophet]]''|Harry Potter and the Order of the Phoenix}}
+'''Tiberius Ogden''' was an elder member of the [[Wizengamot]] who resigned in protest due to [[Cornelius Fudge]]'s appointment of [[Dolores Umbridge]] as [[Hogwarts High Inquisitor|High Inquisitor]] at [[Hogwarts School of Witchcraft and Wizardry]] and the continuing [[Campaign to discredit Albus Dumbledore and Harry Potter|campaign]] by the [[British Ministry of Magic|Ministry of Magic]] and the [[Daily Prophet]] to discredit [[Albus Dumbledore]] and [[Harry Potter]].<ref name="OOTP15">{{OOTP|B|15}}</ref>
+
+Tiberius Ogden was the friend who told Professor [[Tofty]], [[Harry Potter]]'s [[Defence Against the Dark Arts]] [[Ordinary Wizarding Level|O.W.L.]] Examiner, that he could perform a corporeal [[Patronus Charm|Patronus]].<ref name="OOTP31">{{OOTP|B|31}}</ref>
+
+==Etymology==
+The name "Tiberius" is a Roman praenomen, or given name, meaning "of the Tiber" in Latin. The Tiber is the river that runs through Rome. {{w|Tiberius}} was the second Roman emperor, the stepson of emperor {{w|Augustus}}.
+
+==Behind the scenes==
+*Tiberius Ogden may have been the same person as [[Cormac McLaggen]]'s uncle [[Tiberius]], as mentioned by [[Horace Slughorn]] in {{HBP}}.
+*He may have been related to [[Bob Ogden]], who also worked for the Ministry of Magic as the Head of the [[Magical Law Enforcement Patrol]], or the makers of [[Ogden's Old Firewhiskey]].
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 10 employees}}
+{{DEFAULTSORT:Ogden, Tiberius}}
+[[de:Tiberius Ogden]]
+[[es:Tiberius Ogden]]
+[[fr:Tiberius Ogden]]
+[[pl:Tyberiusz Ogden]]
+[[pt:Tibério Ogden]]
+[[ru:Тиберий Огден]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Ogden family|Tiberius]]
+[[Category:Wizards]]
+[[Category:Wizengamot members]]

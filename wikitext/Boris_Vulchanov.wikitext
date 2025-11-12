@@ -1,0 +1,61 @@
+{{youmay|the Chaser for Bulgaria during the 2014 Quidditch World Cup|[[Pyotr Vulchanov|his father]], or [[Vulchanov family|the family name]]}}
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Boris Vulchanov
+|born = After [[1976]], [[Bulgaria]]
+|died = 
+|blood =[[Pure-blood]] or [[half-blood]]<ref name="Blood">Since [[Pyotr Vulchanov|his father]] is a [[Wizardkind|wizard]], he cannot be a [[Muggle-born]].</ref> 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Beater]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Pyotr Vulchanov]] (father)
+*[[Nerida Vulchanova]] (possible ancestor)
+*[[Vulchanov family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Beater]] for the [[Bulgarian National Quidditch team]]
+|house = 
+|loyalty = *[[Vulchanov family]]
+*[[Bulgarian National Quidditch team]]
+}}
+'''Boris Vulchanov''' was a Bulgarian [[wizardkind|wizard]] and a [[Beater]] on the [[2014]] [[Bulgarian National Quidditch team]]. His father [[Pyotr Vulchanov]] played in the [[1994 Quidditch World Cup]] final.<ref name="PM">{{PM}} - [[BULGARIA VERSUS NEW ZEALAND]] (Archived)</ref>
+
+==Biography==
+Vulchanov was quoted in [[Ginevra Weasley|Ginny Potter]]'s article on the semi-final match between [[Bulgaria]] and [[Japan]], saying "''We've been underdogs all through this tournament. We have nothing to lose and everything to win. We'll leave everything out there.''" It was in this game that Vulchanov flew deliberately in front of a [[Bludger]] to protect his team's [[Seeker]] [[Viktor Krum]], who was in pursuit of the [[Golden Snitch|Snitch]]. Vulchanov was knocked out cold and fell from his broom, only to be saved by Japanese Seeker [[Noriko Sato]]. Krum, seeing Sato's temporary vulnerability and inability to compete for the Snitch, pulled up and waited for her instead of using this to his advantage. All three consequently received a standing ovation from the audience for their excellent display of sportsmanship, one no one watching would be likely to forget.
+
+== Etymology ==
+Vulchanov possibly comes from "вълк (vulk)", the Bulgarian word for "wolf".
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Vulchanov, Boris}}
+
+[[de:Boris Vulchanow]]
+[[es:Boris Vulchanov]]
+[[fr:Boris Vulchanov]]
+[[pl:Boris Vulchanov]]
+
+[[Category:Beaters]]
+[[Category:Bulgarian individuals]]
+[[Category:Males]]
+[[Category:Vulchanov family|Boris]]
+[[Category:Wizards]]

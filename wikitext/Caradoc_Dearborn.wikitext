@@ -1,0 +1,70 @@
+{{Individual infobox
+|theme = phoenix
+|image = CaradocDearbornPM.png
+|name = Caradoc Dearborn
+|born = 
+|died = c.[[1981]] (presumed)<ref name="OOTP9"/> 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="OOTP9"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP9"/>
+|gender = Male<ref name="OOTP9"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Order of the Phoenix]]<ref name="OOTP9"/>
+}}
+{{Quote|Caradoc Dearborn, disappeared six months after the photograph, we didn't ever find his body...|Caradoc's disappearance|Harry Potter and the Order of the Phoenix}}
+'''Caradoc Dearborn''' was a [[Great Britain|British]] [[Wizardkind|wizard]] and member of the original [[Order of the Phoenix]]. He fought in the [[First Wizarding War]] and was presumably murdered by [[Death Eaters]] or [[Tom Riddle|Lord Voldemort]] himself before the end of the war. His body was never found.<ref name="OOTP9"/>
+
+==Biography==
+During the [[First Wizarding War]], Caradoc became a member of the [[Order of the Phoenix]], an organisation led and founded by [[Albus Dumbledore]], in order to oppose the [[Tom Riddle|Dark Lord Voldemort]] and his [[Death Eaters]].<ref name="OOTP9"/>
+
+During the height of the conflict, Caradoc vanished and was never heard from afterwards. According to [[Alastor Moody]], he disappeared six months after the photograph of the original Order was taken. His body was never found and he was presumed dead.<ref name="OOTP9">{{OOTP|B|9}}</ref>
+
+His surname was used as a [[password]] required to listen to [[Potterwatch broadcasts]] on [[wireless]] at the height of the [[Second Wizarding War]].<ref name="DHG1">{{DH|G1}}</ref>
+
+==Etymology==
+{{W|Caradoc}}, sometimes known as ''Caradog'', was one of the Knights of the Round Table in Arthurian legend. He was also a semi-legendary ancestor of the mediaeval kings of the Welsh {{W|Kingdom of Gwent}}. ''Caractacus'' is the Latinized form of Caradoc.<ref>[http://webspace.webring.com/people/ge/edgarbook/names/frames.html Edgar's Name Pages]</ref>
+	
+The surname {{W|Dearborn (surname)|Dearborn}} was first found in Surrey where the family trace their lineage back to Abernon listed in the Domesday Book having sprang from the fief of that name in Normandy. He was a tenant in chief in Surrey, giving name to Stoke Daubernon. Conjecturally, the surname is descended from the tenant of the lands of Guildford and East Mosely, held by Roger de Abernon or Arburnam of Abenon in Calvados, the Norman Baron.<ref>[https://www.houseofnames.com/dearborn-family-crest HouseofNames]</ref>
+
+==Appearances==
+{{Imagecat|Images of Caradoc Dearborn}}
+*{{OOTP}} {{Mention|1st}}
+*{{OOTP|F}} {{1st}} {{Photograph}}
+*{{DH|G1}} {{Mention}}
+*{{PM}}
+*{{HPcom}}
+*{{HPWA}}<ref>{{HPWA}} {{See webpage|url=https://static.wikia.nocookie.net/harrypotter/images/2/21/Order_of_the_Phoenix_members.webp/revision/latest?cb=20231013230423}}</ref>
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Dearborn, Caradoc}}
+{{Order of the Phoenix}}
+[[de:Caradoc Dearborn]]
+[[es:Caradoc Dearborn]]
+[[fr:Caradoc Dearborn]]
+[[it:Caradoc Dearborn]]
+[[pl:Caradoc Dearborn]]
+[[pt:Carátaco Dearborn]]
+[[ru:Карадок Дирборн]]
+[[Category:British individuals]]
+[[Category:First Order of the Phoenix]]
+[[Category:Males]]
+[[Category:Missing individuals]]
+[[Category:Passwords]]
+[[Category:Wizards]]

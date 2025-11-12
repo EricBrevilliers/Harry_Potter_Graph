@@ -1,0 +1,56 @@
+{{Individual infobox
+|name = Stebbins
+|image = 
+|born = Between [[1 September]] [[1959]] and [[31 August]] [[1960]]
+|died = 
+|blood = 
+|nationality = {{GBorIE}}
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="OOTP28"/>
+|gender = 
+|hair = 
+|skin = 
+|eyes = 
+|height = 
+|weight = 
+|family = *[[Stebbins (Auror)]] {{C|possibly}}
+*[[Stebbins (1990s Hogwarts student)]] {{C|possibly}}
+*[[Stebbins family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Stebbins family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTP28"/>
+|theme = wizard
+}}
+{{Quote|Quills down, please! That means you too, Stebbins!|Flitwick telling off Stebbins after an O.W.L. exam|Harry Potter and the Order of the Phoenix}}
+'''Stebbins''' was a [[Wizardkind|wizard or witch]] and student in the same year as the [[Marauders]] at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="OOTP28">{{OOTP|B|28}}</ref>
+
+==Biography==
+In [[June]] [[1976]], during the [[Ordinary Wizarding Level|O.W.L.]] exam period, Stebbins refused to stop writing with their [[quill]] even after an examination was finished, and was admonished for it by [[Filius Flitwick|Professor Flitwick]].<ref name="OOTP28"/>
+
+==Appearances==
+*{{OOTP}} {{1st}} {{Flashback}}
+*{{OOTP|F}} {{Possible}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Stebbins sr.]]
+[[es:Stebbins (era de los Merodeadores)]]
+[[fr:Stebbins (époque de Severus Rogue)]]
+[[ru:Мистер Стеббинс]]
+[[zh:斯特宾斯_(1960年代)]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Individuals of unknown gender]]
+[[Category:Sorted in 1971]]
+[[Category:Stebbins family]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

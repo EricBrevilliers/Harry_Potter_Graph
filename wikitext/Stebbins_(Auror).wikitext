@@ -1,0 +1,65 @@
+{{MagicAwakenedSpoiler}}
+{{Individual infobox
+|theme = mom
+|image = Stebbins (1920s) COG.png
+|name = Stebbins
+|born = Before [[1927]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COG26"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COG26"/>
+|gender = Male<ref name="COG26"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Stebbins (1970s Hogwarts student)]] {{C|possibly}}
+*[[Stebbins (1990s Hogwarts student)]] {{C|possibly}}
+*[[Stebbins family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Auror]]<ref name="COG26"/>
+|house = 
+|loyalty = *[[Stebbins family]]
+*[[British Ministry of Magic]]<ref name="COG26"/>
+**[[Department of Magical Law Enforcement]]<ref name="COG26"/>
+***[[Auror Office]]<ref name="COG26"/>
+}}
+'''Auror Stebbins''' was a [[Great Britain|British]] [[Wizardkind|wizard]] that worked for the [[British Ministry of Magic]] as an [[Auror]].<ref name="COG26"/>
+
+==Biography==
+[[File:Ventus2.gif|thumb|left|250px|Newt blowing Stebbins away with a gust of wind, much to the confusion of Muggles in London]]
+In [[1927]], he was tasked with the job of spying on [[Newton Scamander]], but was thwarted when Newt cast the [[Windy Spell]], creating a forceful wind that delayed him long enough for Newt to [[Apparition|disapparate]].<ref name="COG26">{{COG|S|26}}</ref> Stebbins also accompanied [[Torquil Travers]] to [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] with the group of [[Auror]]s trying to force [[Albus Dumbledore]] to fight [[Gellert Grindelwald]].
+
+==Behind the scenes==
+*He is played by [[Bart Soroczynski]] in {{COG}}.<ref name="IMDB">[http://www.imdb.com/name/nm7702949/ IMDB]</ref>
+*It is possible that he is related to [[Stebbins (1970s Hogwarts student)|Stebbins]] from the [[1970s]] and [[Stebbins (1990s Hogwarts student)|Stebbins]] from the [[1990s]].
+
+==Appearances==
+{{Imagecat|Images of Stebbins (Auror)}}
+*{{COG|S}} {{1st}}
+*{{COG}}
+*{{MA}} {{Spell card}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Stebbins (années 1920)]]
+[[de:Stebbins, Auror]]
+[[ru:Стеббинс (мракоборец)]]
+[[de2:Stebbins (1920er)]]
+[[pl:Stebbins (lata 20.)]]
+
+[[Category:Auror Office personnel]]
+[[Category:Aurors]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Stebbins family]]
+[[Category:Wizards]]

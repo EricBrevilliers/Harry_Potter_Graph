@@ -1,0 +1,103 @@
+{{Spoiler|HM|MA}}
+{{Individual infobox
+|theme = wizard
+|image = Adalbert Waffling HM.png
+|name = Adalbert Waffling
+|born =
+|died = [[1981]]<ref name="PSG"/> 
+|blood =
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature =
+|species = [[Human]]<ref name="PSG"/>
+|gender = Male<ref name="PSG"/>
+|height =
+|weight =
+|hair = 
+|eyes = 
+|skin = 
+|family =
+|romances =
+|animagus =
+|boggart =
+|wand =
+|patronus =
+|job = *Author<ref name="PS5"/>
+*[[Magical Theoretician]]<ref name="TBBR"/>
+|house =
+|loyalty =
+}}
+{{Quote|Tamper with the deepest mysteries ― the source of life, the essence of self ― only if prepared for consequences of the most extreme and dangerous kind.|Waffling's first [[Fundamental Laws of Magic|Fundamental Law of Magic]]|The Tales of Beedle the Bard (real)}}
+'''Adalbert Waffling''' (d. [[1981]])<ref name="PSG"/> was a [[Wizardkind|wizard]] who was a [[magic]]al theoretician, credited to have written "all about magic". Waffling is somewhat seen as the "father of magical theory", as it is a popular claim that every modern witch or wizard has learned from his writings.
+
+Waffling was the one who formulated the [[Fundamental Laws of Magic]]<ref name="TBBR">{{TBB|H}}</ref> and wrote ''[[Magical Theory (book)|Magical Theory]]'', a most popular textbook still being used today by the young witches and wizards at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="PS5">{{PS|B|5}}</ref>
+
+==Biography==
+===Early life===
+Adalbert Waffling was born in or before the 19th-century. By the [[1890s]], he was already a notable theoretician<ref name="DH2">{{DH|B|2}}</ref> whose ideas on [[Spell Energy|energy transfer]] in [[Spell|spellcasting]] illuminated the fact that while certain spells were a matter of the caster's will, others were a question of intent.<ref>{{WU}} - [[SOS Task Force Training]]: (Calamity Essentials II: Rhyme and Reason)</ref> 
+
+===Later life===
+[[File:Adalbert Waffling USA Card.jpg|150px|thumb|right|Waffling studying magic]]
+By the [[1890s]], Waffling was already one of most notable wizards of the date,<ref name="DH2"/><ref name="PM">[https://www.pottermore.com/features/things-we-bet-the-hogwarts-portraits-do-when-noone-is-watching| Pottermore - things we bet the Hogwarts portraits do when no-one is looking] - ''Imagine you’re a long-suffering wizarding portrait of someone famous, like Adalbert Waffling''.</ref> so it is more than likely he published some of his writings before this point. Around this time [[Albus Dumbledore]], the "''most brilliant student ever seen [at Hogwarts]''", was in regular correspondence with Waffling in order to exchange ideas about magic.<ref name="DH2"/> [[Minerva McGonagall]] later shared these [[Letters between Albus Dumbledore and Adalbert Waffling|letters]] with members of the [[Statute of Secrecy Task Force]] who pursued a [[Professor]]ship profession to help improve their skills in addressing the [[Calamity]].<ref name="WU">{{WU}} ([https://youtu.be/Mc5_6YJXVvQ?t=300 see video])</ref>
+
+Waffling died in [[1981]].<ref name="PSG">{{PS|G}}</ref>
+
+===Legacy===
+[[File:Adalbert Waffling Chocolate Frog Card HM.png|thumb|right|200px|Adalbert on a Chocolate Frog Card]]
+Waffling was commemorated on a [[Chocolate Frog Card]].<ref>{{MA}}</ref>
+
+During the [[Calamity]] in the late [[2010s]] or early [[2020s]], a [[Calamity Investigator]] working for the [[Statute of Secrecy Task Force]] attended a retrospective on the life of Adalbert Waffling, paying attention to his ideas on energy transfer in [[spell]]casting. Waffling claimed that certain spells seemed to be a matter of the caster's will while others focused on the caster's intent. The investigator used Waffling's ideas to increase the duration of their [[Inn Charm]].<ref name="WU"/>
+
+==Etymology==
+''Adal'' is Old High German for "''noble''" or "''aristocratic''"; ''berta'', "''bright''". "Waffling" means speaking or writing at length in a vague or trivial manner without a clear point or aim.
+
+==Behind the scenes==
+*In early editions of {{POA}}, ''[[A History of Magic]]'' is incorrectly said to be written by Adalbert Waffling, instead of [[Bathilda Bagshot]].
+*In {{DH}}, it is revealed that [[Albus Dumbledore]] corresponded with Waffling during his time at [[Hogwarts School of Witchcraft and Wizardry]]. However, the dates given for Waffling's birth on his [[Chocolate Frog Card]] say that he was born after Dumbledore graduated (in [[1899]]).
+*Adalbert Waffling's death date coincides with the height of the [[First Wizarding War]] and the original [[Attack at Godric's Hollow (1981)|downfall of Lord Voldemort]]. It is unknown if he died as a result of the war, or died of another reason.
+*Waffling's [[canon]]ical physical appearance is unclear; in {{HM}}, he is shown to be dark-skinned with black hair, but in all other Chocolate Frog Card appearances prior and since, he is light-skinned with grey hair.
+
+==Appearances==
+{{Imagecat|Images of Adalbert Waffling}}
+*{{PS}} {{Mention|1st}}
+*{{PS|F}} {{C|Name is seen on book cover}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA}} {{Mention}}
+*{{POA|F}} {{C|Name seen on wood panelling}}
+*{{POA|G}} {{FWC}}
+*{{DH}} {{Mention}}
+*{{TBB|R}} {{Mention}}
+*{{PM}} {{Mention}}
+*{{HPcom}} {{Mention}}
+*{{MBGD}}
+*{{WU}} {{Mention}}
+*{{HM}} {{FWC}}
+*{{MA}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Waffling, Adalbert}}
+{{Chocolate Frog Cards}}
+
+[[ru:Адальберт Уоффлинг]]
+[[de:Adalbert Schwahfel]]
+[[de2:Adalbert Schwahfel]]
+[[es:Adalbert Waffling]]
+[[fi:Adalbert Waffling]]
+[[fr:Adalbert Lasornette]]
+[[it:Adalbert Waffling]]
+[[nl:Adalbert Zwatel]]
+[[no:Adalbert Vingling]]
+[[pl:Adalbert Waffling]]
+
+[[Category:1981 deaths]]
+[[Category:19th century births]]
+[[Category:Authors]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Males]]
+[[Category:Theoreticians]]
+[[Category:Wizards]]
+[[Category:Yellow-eyed individuals]]

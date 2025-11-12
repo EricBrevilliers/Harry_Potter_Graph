@@ -1,0 +1,93 @@
+{{individual infobox
+|theme=wizard
+|name=Roxanne Weasley
+|image=RoxanneWeasley.png
+|hideb=
+|born=Between [[2 May]] [[2000]] and [[11 July]] [[2014]]
+|died=
+|blood=[[Pure-blood]] or [[half-blood]]<ref>Her [[George Weasley|father]] is a [[pure-blood]] and her [[Angelina Weasley|mother]]'s [[blood status]] is unknown, so Roxanne is either pure-blood or [[half-blood]], as she cannot be a [[Squib]] because is known to have played [[Quidditch]].</ref>
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[George Weasley]] (father)
+*[[Angelina Johnson|Angelina Weasley]] (née [[Johnson family|Johnson]]) (mother)
+*[[Fred Weasley (II)]] (older brother)
+*[[William Weasley]] (paternal uncle)
+*[[Charles Weasley]] (paternal uncle)
+*[[Percy Weasley]] (paternal uncle)
+*[[Fred Weasley]] (paternal uncle) †
+*[[Ronald Weasley]] (paternal uncle)
+*[[Ginevra Weasley|Ginevra Potter]] (née [[Weasley family|Weasley]]) (paternal aunt)
+*[[Fleur Delacour|Fleur Weasley]] (née [[Delacour family|Delacour]]) (paternal aunt by marriage)
+*[[Audrey Weasley]] (paternal aunt by marriage)
+*[[Hermione Granger]] (paternal aunt by marriage)
+*[[Harry Potter]] (paternal uncle by marriage)
+*[[Padma Patil]] (paternal aunt by marriage in [[alternate timeline]])
+*[[Victoire Weasley]] (paternal first cousin)
+*[[Dominique Weasley]] (paternal first cousin)
+*[[Louis Weasley]] (paternal first cousin)
+*[[Molly Weasley (II)]] (paternal first cousin)
+*[[Lucy Weasley]] (paternal first cousin)
+*[[Rose Granger-Weasley]] (paternal first cousin)
+*[[Hugo Granger-Weasley]] (paternal first cousin)
+*[[James Potter (II)]] (paternal first cousin)
+*[[Albus Potter]] (paternal first cousin)
+*[[Lily Potter (II)]] (paternal first cousin)
+*[[Panju Weasley]] (paternal first cousin in [[alternate timeline]])
+*[[Arthur Weasley]] (paternal grandfather)
+*[[Molly Weasley]] (née [[Prewett family|Prewett]]) (paternal grandmother)
+*[[Angelina Johnson's father|Maternal grandfather]]
+*[[Matilda Weasley]] (possible relative)
+*[[G. Weasley]] (possible relative)
+*[[Garreth Weasley]] (possible relative)
+*[[Garreth Weasley's sister|Possible relative]]
+*[[Matilda Weasley's nephews|Possible relatives]]
+*[[Hector Weasley]] (possible relative)
+*[[Weasley family]]
+*[[Johnson family]] (maternal family)
+|hidem
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=*[[Weasley family]]
+*[[Johnson family]]
+}}
+'''Roxanne Weasley''' (b. [[2000s]]) was the daughter of [[George Weasley]] and [[Angelina Johnson|Angelina Weasley]] (née Johnson). She had an older brother, [[Fred Weasley (II)|Fred]], who was named after her [[Fred Weasley|late uncle]].<ref name=WFT> [https://archive.ph/qJjm4#selection-1403.0-1403.57 Times Online - The Unwritten Story of Harry's Friends and Their Children] (Archived)</ref> She may have shared her parents' love of [[Quidditch]], playing as either a [[Beater]] or a [[Chaser]].<ref>{{PM}} - [https://web.archive.org/web/20180314232750/https://www.pottermore.com/features/the-weasley-family-tree The Weasley Family Tree]: ''"As her parents shared a love of Quidditch, it’s possible that they passed this on to their daughter. The question is, would Roxanne have played as a Beater or a Chaser?''" (Archived)</ref>
+
+==Etymology==
+{{W|Roxanne}} is an English spelling of the French name ''Roxane'', which in turn comes from the Greek name ''Roxana'', derived from the Persian ''Roshanak'', meaning "bright" or "dawn". Roxana was the name of {{W|Alexander the Great}}'s first wife.<ref>[http://www.behindthename.com/name/roxana Behind the Name: Roxana]</ref> Also, Roxanne is the name of a main character in Edmond Rostand's play ''{{W|Cyrano de Bergerac}}'', who is the love interest of the eponymous hero.
+
+==Appearances==
+*{{JKYL}} {{Mention|1st}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Weasley, Roxanne}}
+[[de:Roxanne Weasley]]
+[[es:Roxanne Weasley]]
+[[fr:Roxanne Weasley]]
+[[it:Roxanne Weasley]]
+[[ru:Роксана Уизли]]
+[[pl:Roxanne Weasley]]
+[[Category:2014 Quidditch World Cup attendees]]
+[[Category:Disowned House of Black descendants]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Flint family descendants]]
+[[Category:Johnson family descendants]]
+[[Category:Prewett family descendants]]
+[[Category:Weasley family|Roxanne]]
+[[Category:Wizards]]
+[[Category:Yaxley family descendants]]

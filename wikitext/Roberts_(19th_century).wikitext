@@ -1,0 +1,49 @@
+{{HogwartsLegacySpoiler}}
+{{Individual infobox
+|theme=dark-wizard
+|image=
+|name=Roberts
+|born=Before [[1890]]<ref name="HL">{{HL}}</ref>
+|died=
+|blood=
+|marital=
+|nationality=
+|alias=
+|title=
+|signature=
+|species=[[Human]]<ref name="HL" />
+|gender=Male
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=[[Roberts family]]<ref name="HL" />
+|romances=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=[[Wizard poacher]]<ref name="HL" />
+|house=
+|loyalty=*[[Roberts family]]<ref name="HL" />
+*[[Rookwood Gang]]<ref name="HL" />
+**[[Poacher Pack]]<ref name="HL" />
+}}
+'''Roberts''' was a [[Dark wizard]] who joined the [[Poacher Pack]].<ref name="HL" />
+
+==Biography==
+In [[1890]], Roberts complained about his sinuses so often that a fellow [[Wizard poacher|poacher]] grew "sick of" it. The poacher even told others in the pack to keep one [[Puffskein]] poached for Roberts, claiming its tongue could clear the boogies — though this may have been a sarcastic joke.<ref name="HL"/>
+
+==Appearances==
+*{{HL}} {{Mention|1st}}
+
+==Notes and references==
+{{Reflist}}
+
+== External links ==
+{{Rookwood Gang}}
+[[Category:Dark wizards]]
+[[Category:Males]]
+[[Category:Poacher Pack]]
+[[Category:Roberts family]]
