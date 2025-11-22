@@ -6,7 +6,7 @@ Harry Potter Network Ideas
 deadline tuesday 25th november.
 L'idée c'est d'avoir une version qu'on pense être une bonne analyse complète (bien rédigée, avec toutes les analyses et les graphs qu'on pense nécessaires). Comme ça on peut avoir des feedbacks sur ça mercredi pro.
 
-- YASMINE: Look at the number of citations in the books: do they map with the centrality of the node?
+- YASMINE: Look at the number of citations in the books: do they map with the centrality of the node? And with the betweenness/ eigenvector centrality? What can we conclude about the universe and the graph?
 	- Sur GitHub il y a un fichier texte avec la liste de perso et le nombre de fois qu'il sont cité dans les livres. 
 	- récupérer le nombre de fois que chaque perso est cité et l'ajouter en attribus du nœud.
 	- comparer la centralité/ nombre de connexion des nœuds avec le nombre de citation: est-ce que c'est corrélé? qui sont les plus centraus et les plus cités, qui sont des contre-exemples?, ...
@@ -20,8 +20,8 @@ L'idée c'est d'avoir une version qu'on pense être une bonne analyse complète 
 	- dans la suite de cette partie, on utilisera seulement les noeuds "Human" qui ont un Blood-Status + ceux qui ne sont pas humains.
 	- Si on prend chaque Blood-Status comme étant une communautée et que pour chaque noeud non humain on dit que chaque espèce est une communautée (ou bien tous les noeuds non-humains forment une seule communautée, je pense il faut essayer les 2 et garder celui qui marche le mieux), alors est-ce que cela forme de "bonnes" communautées? (comparaison avec Louvain, comme en week7)
 
-- REX: Chercher le personnage le plus ambivalent = avec les connexions avec des gentil et des méchants les + équilibrés.
-
+- REX: Chercher les personnages les plus ambivalents = avec les connexions avec des gentil et des méchants: les + équilibrés.
+    - est-ce que ces personnages ont également des spécialement fortes bentweenness centrality (ce qu'on pourrait peut-être penser à priori vu qu'ils connectent différentes parties du graph?), si non, comment l'expliquer?
 
 
 	Feedback from teacher:
