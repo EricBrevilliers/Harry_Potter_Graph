@@ -11,11 +11,11 @@ L'idée c'est d'avoir une version qu'on pense être une bonne analyse complète 
 	- récupérer le nombre de fois que chaque perso est cité et l'ajouter en attribus du nœud.
 	- comparer la centralité/ nombre de connexion des nœuds avec le nombre de citation: est-ce que c'est corrélé? qui sont les plus centraus et les plus cités, qui sont des contre-exemples?, ...
 
-- ERIC: Do Hogwarts houses form good communities?
 - ERIC: Does the TF-IDF associated with each Harry Potter Houses reflect well the moral values of each house?
-- ERIC: Which house has the most positive sentiment?
+- YASMINE: Which house has the most positive sentiment? (take the wikitext of all the characters that belongs to this house and compute the total average sentiment for all the pages of each house)
 
-- YASMINE: Do Blood-status form good communities?
+- ERIC: Do Hogwarts houses form good communities?
+- ERIC: Do Blood-status form good communities?
 	- En utilisant l'API de du wiki fandom, ajouter les attribus "Species" et "Blood-Status" à chaque noeud.
 	- dans la suite de cette partie, on utilisera seulement les noeuds "Human" qui ont un Blood-Status + ceux qui ne sont pas humains.
 	- Si on prend chaque Blood-Status comme étant une communautée et que pour chaque noeud non humain on dit que chaque espèce est une communautée (ou bien tous les noeuds non-humains forment une seule communautée, je pense il faut essayer les 2 et garder celui qui marche le mieux), alors est-ce que cela forme de "bonnes" communautées? (comparaison avec Louvain, comme en week7)
