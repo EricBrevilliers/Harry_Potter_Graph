@@ -1,12 +1,12 @@
 # The structure of our GitHub is such that:
 
-* ***Explainer_Notebook.ipynb*** is the main notebook containing the explanation of our submission paper.
+* ***Explainer_Notebook.ipynb*** is the main notebook containing the explanation related to our submission paper.
 * ***IDEAS.txt*** is a way to communicatedd together and list the important information about the project every team member needs to know.
 
 ## /Other notebooks folder
 This folder contains all the other notebook we have used durnig the project process.
-* ***Creation of the github.ipynb*** is the notebook we used to add all the wikitext files 
-* ***Presentation_and_basic_analysis.ipynb*** is the notebook we used to create the network, structure our thoughs and do basic analysis to be ready for the Assigment A (video)
+* ***Creation of the github.ipynb*** is the notebook we used to add all the wikitext files to github
+* ***Presentation_and_basic_analysis.ipynb*** is the notebook we used to create the network, to structure our thoughs and to do basic analysis to be ready for the Assigment A (video)
 
 ## /list_characters folder
 This folder contains the file listing all the characters in the Wizarding World we used to create the network.
